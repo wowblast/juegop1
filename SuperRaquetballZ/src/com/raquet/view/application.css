@@ -1,0 +1,42 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+/*"background_image.jpg"); */
+
+.score1{
+	-fx-background-image: url("/com/raquet/imagenes/verde.jpg");
+
+}
+.score2{
+	-fx-background-image: url("/com/raquet/imagenes/verde.jpg");
+
+}
+
+
+.fxPelota {
+	-fx-background-image: url("/com/raquet/imagenes/fondo.png");
+}
+
+
+.ima{
+	-fx-background-color: GREEN;
+}
+.paneCancha {
+		
+ 	-fx-background-image: url("/com/raquet/imagenes/clarad.jpg");
+	-fx-background-repeat: stretch; 
+    -fx-background-size: 454 900;
+    -fx-background-position: center center;
+   
+}
+
+
+
+
+
+.pane{
+    -fx-background-color: BLACK;
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 400 800;
+    -fx-background-position: center center;
+    
+    
+}
